@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2015 - Present: External Consultant
+* 2015 - Present: External Consultant -
 * Feb 2023 - Dec 2023: Research Analyst [National Polytechnic School, Quito]
 * Jul 2021 - Apr 2022: Data Consultant [Ministry of Tourism, Quito]
 * Jul 2020 - Mar 2022: Production Staff [Fosforera Ecuatoriana S.A., Quito]
