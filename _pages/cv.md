@@ -11,20 +11,26 @@ redirect_from:
 
 Education
 ======
-* M.S. in Statistics & Operations Research, Polytechnic University of Catalonia, 2019
-* B.S. in Economics, Technical University of Loja, 2011
+* M.S. in Statistics & Operations Research: Polytechnic University of Catalonia, 2019
+* B.S. in Economics: Technical University of Loja, 2011
+* B.S. in Accounting & Auditing: Central University of Ecuador, 2024
 
 Work experience
 ======
 * 2015 - Present: External Consultant
-
-* Sep 2014 - Jul 2017: Tax Staff
+* Feb 2023 - Dec 2023: Research Analyst [National Polytechnic School, Quito]
+* Jul 2021 - Apr 2022: Data Consultant [Ministry of Tourism, Quito]
+* Jul 2020 - Mar 2022: Production Staff [Fosforera Ecuatoriana S.A., Quito]
+* Aug 2027 - Jun 2020: External Consultant [Freelance, Barcelona]
+* Sep 2014 - Jul 2017: Tax Staff [Procesadora Nacional de Alimentos C.A., Quito]
+* Nov 2011 - Aug 2014: Project Specialist [Freelance, Quito]
   
 Skills
 ======
 * Programming Languages
   * Python
   * R
+  * JavaScript
   * SAS
   * SQL
   * Julia
