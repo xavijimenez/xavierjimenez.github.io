@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  xavierjimenez_               : &twitter
+  zenemijreivax             : &twitter
 LinkedIn:
   xavijimenez               : &linkedin
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/9100441/xavier-jiménez-albán"
   steam            :
   tumblr           :
-  twitter          : # "xavierjimenez_"
+  twitter          : "zenemijreivax"
   vine             :
   weibo            :
   xing             :
